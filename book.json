@@ -1,11 +1,11 @@
 {
   "language": "es",
   "author": "José Manuel Vela Fernández",
-  "repo": "https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos",
-  "ghPages": "http://ULL-ESIT-SYTW-1617.github.io/presentaciones-todos",
-  "name": "presentaciones nombre",
-  "title" : "presentaciones titulo" ,
+  "repo": "https://github.com/Velaa98/GitBook.git",
+  "ghPages": "",
+  "name": "Prueba de name",
+  "title" : "GitBook" ,
     "plugins": ["copy-code-button"],
-  "description" : "Esto es una descripción",
+  "description" : "Prueba de descripción",
   "root": "./raiz"
 }
