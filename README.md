@@ -1,2 +1,2 @@
 # GitBook
-Página estática generada por gitbook usando ficheros markdown
+Generador de páginas estáticas mediante ficheros en Markdown
