@@ -2,7 +2,7 @@
 necesario
 
 
-### SUMMARY.md {#summary}
+### SUMMARY.md{#summary}
 necesario
 
 ### book.json {#book}
