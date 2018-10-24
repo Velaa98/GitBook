@@ -5,7 +5,18 @@
   "ghPages": "",
   "name": "Prueba de name",
   "title" : "GitBook" ,
-    "plugins": ["copy-code-button"],
+  "plugins":
+	[
+	"copy-code-button",
+	"theme-api"
+	],
+  "pluginsConfig":
+	{
+        "theme-api":
+		{
+		"theme": "dark"
+		}
+	},
   "description" : "Prueba de descripción",
   "root": "./raiz"
 }
