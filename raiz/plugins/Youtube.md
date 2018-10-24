@@ -17,4 +17,4 @@ etiquetas junto al enlace del video deseado:
 ```
 
 ### Ejemplo de uso
-{% youtube %} https://www.youtube.com/watch?v=KFF5bBLX7ME {% endyoutube %}
+{% youtube %} https://youtu.be/eKdeaDbNwnw {% endyoutube %}
