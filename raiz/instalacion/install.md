@@ -1,4 +1,4 @@
-### Instalación de GitBook
+## Instalación de GitBook
 Para poder instalar gitbook necesitamos previamente tener instalado:
 
 - NodeJS

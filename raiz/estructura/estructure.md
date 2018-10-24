@@ -1,4 +1,4 @@
-### Estructura de ficheros
+## Estructura de ficheros
 | Fichero  | Descripción |
 | --------------- | -------------------------------------|
 | [SUMMARY.md][1] | Índice del libro. Es Necesario       |
