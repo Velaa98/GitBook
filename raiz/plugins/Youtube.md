@@ -3,7 +3,7 @@ Nos permite insertar videos de youtube en nuestra página de forma muy simple, s
 etiquetas junto al enlace del video deseado:
 
 ```
-{% youtube %} https://www.youtube.com/watch?v=KFF5bBLX7ME {% endyoutube %}
+{% youtube %} https://youtu.be/eKdeaDbNwnw {% endyoutube %}
 ```
 
 ### Configuración
