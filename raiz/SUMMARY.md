@@ -11,5 +11,6 @@
 * [Estructura](estructura/estructure.md)
     * [Ficheros](estructura/files.md)
 * [Plugins](plugins/plugin.md)
-    * [Youtube](plugins/youtube.md)
+    * [Botón de copiar código](plugins/CodeButton.md)
+    * [Tema Oscuro](plugins/DarkTheme.md)
 
