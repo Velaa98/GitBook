@@ -1,5 +1,5 @@
 gitbook build . prueba
-mv prueba/* ../PaginaGitBook
+cp -r prueba/* ../PaginaGitBook
 rm -rf prueba
 git commit -am "Actualización"
 git push
