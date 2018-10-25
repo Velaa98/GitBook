@@ -18,3 +18,4 @@ etiquetas junto al enlace del video deseado:
 
 ### Ejemplo de uso
 {% youtube %} https://youtu.be/eKdeaDbNwnw {% endyoutube %}
+
