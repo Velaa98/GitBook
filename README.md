@@ -1,2 +1,2 @@
 # GitBook
-Generador de páginas estáticas mediante ficheros en Markdown
+Generador de páginas estáticas mediante ficheros en Markdown.
