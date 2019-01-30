@@ -1,9 +1,10 @@
-gitbook build . prueba
-cp -r prueba/* ../PaginaGitBook
-rm -rf prueba
 git commit -am "Actualización"
-git push
+git push origin master
+
+gitbook build . prueba
+git checkout gh-pages prueba/*
+
 git checkout gh-pages
 git add *
-git commit -am "Actualización"
+git commit -am "Actualización web"
 git push origin gh-pages
